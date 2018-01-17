@@ -1,0 +1,8 @@
+export const SAVE_TOKEN = 'SAVE_TOKEN'
+export const GET_ARTICLES = 'GET_ARTICLES'
+export const GET_ARTICLE = 'GET_ARTICLE'
+export const GET_USER = 'GET_USER'
+export const GET_USER_ARTICLES = 'GET_USER_ARTICLES'
+export const ADD_ARTICLE ='ADD_ARTICLE'
+export const DELETE_ARTICLE = 'DELETE_ARTICLE'
+export const LOGOUT = 'LOGOUT'
